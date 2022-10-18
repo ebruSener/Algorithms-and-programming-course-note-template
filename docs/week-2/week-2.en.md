@@ -20,7 +20,7 @@ geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
-titlepage-rule-color: "CCCCCC"
+titlepage-rule-color: "CCCCCC" 
 titlepage-rule-height: 4
 logo: "assets/2021-10-19-15-01-36-image.png"
 logo-width: 100 
@@ -46,7 +46,7 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: blue -->
 
 <!-- paginate: false -->
 
@@ -92,7 +92,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-![center h:400px](assets/sample-1.png)
+![center h:500px](assets/sample-1.png)
 
 ---
 
@@ -101,7 +101,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-![bg right:50% h:400px](assets/sample-1.png)
+![bg right:50% h:600px](assets/sample-1.png)
 
 ---
 
@@ -119,7 +119,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-![bg h:400px](assets/sample-1.png)
+![bg h:200px](assets/sample-1.png)
 
 ---
 
@@ -128,8 +128,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
+![bg left:50% h:600px](assets/sample-1.png)
+![bg left:50% h:600px](assets/sample-2.png)
 
 ---
 
@@ -213,7 +213,7 @@ $$
 
 ---
 
-**TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
+*TODO* UPDATE CONTENT FOR YOUR COURSE NOTES
 
 --- 
 

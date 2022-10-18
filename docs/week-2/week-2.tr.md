@@ -46,7 +46,7 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: red -->
 
 <!-- paginate: false -->
 
@@ -54,11 +54,11 @@ math: katex
 
 ### Hafta-2 (Örnek Ders Modülü Adı)
 
-#### Bahar Dönemi, 20XX-20XX
+#### Bahar Dönemi, 2022-2023
 
 İndir [DOC](week-2.tr.md_doc.pdf), [SLIDE](week-2.tr.md_slide.pdf), [PPTX](week-2.tr.md_slide.pptx)
 
-<iframe width=700, height=500 frameBorder=0 src="../week-2.tr.md_slide.html"></iframe>
+<iframe width=600, height=500 frameBorder=0 src="../week-2.tr.md_slide.html"></iframe>
 
 ---
 
